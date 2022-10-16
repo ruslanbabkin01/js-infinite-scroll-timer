@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://ruslanbabkin01.github.io/goit-js-hw-11",
+  "homepage": "https://ruslanbabkin01.github.io/js-infinite-scroll-timer-music-click",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-11/"
+    "build": "parcel build src/*.html --public-url /js-infinite-scroll-timer-music-click/"
   },
   "repository": {
     "type": "git",
